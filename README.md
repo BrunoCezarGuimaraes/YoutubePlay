@@ -11,4 +11,6 @@ a video aula sobre esse tema da [RocketSeat](https://www.youtube.com/watch?v=0GO
 
 ## notas:
 Atenção react-native-youtube-iframe é dependente do react-native-webview, tem que baixar os dois a funcionar. <br/>
-Ao instalar a biblitoeca do webview de preferencia a baixar pelo expo, pos ele automatiza varias configurações.
+Ao instalar a biblitoeca do webview de preferencia a baixar pelo expo, pos ele automatiza varias configurações. <br/>
+
+é melhor criar um novo projeto e por os codigos nele, ou utilizar como referencia os desse repositorio
